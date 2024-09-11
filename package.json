@@ -1,0 +1,21 @@
+{
+  "name": "practica-falabella",
+  "version": "1.0.0",
+  "description": "es un ejemplo de como usar mocha chai para test",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "mocha",
+    "chai",
+    "javascript"
+  ],
+  "author": "darita gomez",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  }
+}
